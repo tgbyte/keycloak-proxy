@@ -30,8 +30,8 @@ import (
 
 	"github.com/gambol99/go-oidc/jose"
 	"github.com/gambol99/go-oidc/oauth2"
-	"github.com/pressly/chi"
-	"github.com/pressly/chi/middleware"
+	"github.com/tgbyte/chi"
+	"github.com/tgbyte/chi/middleware"
 	"github.com/stretchr/testify/assert"
 )
 

@@ -13,9 +13,6 @@ import:
 - package: github.com/tgbyte/chi
   subpackages:
   - middleware
-- package: github.com/pressly/chi
-  subpackages:
-  - middleware
 - package: github.com/prometheus/client_golang
   subpackages:
   - prometheus

@@ -1,5 +1,5 @@
-hash: 56c8d7bb770eb2a9735384e197cb7720a86445da86bd086c54f6f3d1ff9f8f31
-updated: 2018-01-08T12:42:50.947653491+01:00
+hash: 19a8f3747c9686d8a7fa869c2565be815e30e2b4331bb1a55457dd2897d85ba1
+updated: 2018-01-09T09:29:44.623501441+01:00
 imports:
 - name: github.com/armon/go-proxyproto
   version: 609d6338d3a76ec26ac3fe7045a164d9a58436e7
@@ -41,10 +41,6 @@ imports:
   version: c12348ce28de40eed0136aa2b644d0ee0650e56c
   subpackages:
   - pbutil
-- name: github.com/pressly/chi
-  version: 18d990c0d1c023b05a3652d322ae36d8bdb62e07
-  subpackages:
-  - middleware
 - name: github.com/prometheus/client_golang
   version: 488edd04dc224ba64c401747cd0a4b5f05dfb234
   subpackages:
@@ -68,7 +64,7 @@ imports:
 - name: github.com/rs/cors
   version: 8dd4211afb5d08dbb39a533b9bb9e4b486351df6
 - name: github.com/tgbyte/chi
-  version: 6c12ccd6ce7593e2468fc262683ac7cb45ea09b2
+  version: 930c20880e056a0d3c82556c749849c4463afeda
   subpackages:
   - middleware
 - name: github.com/unrolled/secure

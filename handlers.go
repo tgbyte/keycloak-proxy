@@ -31,7 +31,7 @@ import (
 	"time"
 
 	"github.com/gambol99/go-oidc/oauth2"
-	"github.com/pressly/chi"
+	"github.com/tgbyte/chi"
 	"go.uber.org/zap"
 )
 
